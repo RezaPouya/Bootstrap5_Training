@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RezaPouya/Bootstrap5_Training/issues"
   },
-  "homepage": "https://github.com/RezaPouya/Bootstrap5_Training#readme"
+  "homepage": "https://github.com/RezaPouya/Bootstrap5_Training#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
 }
